@@ -7,6 +7,9 @@ https://leetcode.com/problems/binary-tree-level-order-traversal/
 230. Kth Smallest Element in a BST 
 https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 
+## Dynamic Programming
+300. Longest Increasing Subsequence
+https://leetcode.com/problems/longest-increasing-subsequence/
 
 ## Arrays
 289. Game of Life
