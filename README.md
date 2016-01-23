@@ -4,7 +4,7 @@ Repository contains my solutions to LeetCode problems.
 ## Trees
 102. Binary Tree Level Order Traversal (102 - iterative solution)
 https://leetcode.com/problems/binary-tree-level-order-traversal/
-230. Kth Smallest Element in a BST 
+230. Kth Smallest Element in a BST (230) 
 https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 
 ## Dynamic Programming
