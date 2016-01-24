@@ -19,4 +19,6 @@ https://leetcode.com/problems/game-of-life/
 206. Reverse a Linked List (206) 
 https://leetcode.com/problems/reverse-linked-list/
 
+## Stacks
+1. Evaluate Reverse Polish Notation (150) - https://leetcode.com/problems/evaluate-reverse-polish-notation/
 
