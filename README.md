@@ -12,8 +12,10 @@ https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 https://leetcode.com/problems/longest-increasing-subsequence/
 
 ## Arrays
-289. Game of Life (289) 
+1. Game of Life (289) 
 https://leetcode.com/problems/game-of-life/ 
+2. Longest Increasing Path in a Matrix (329)
+https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
 
 ## Linked Lists
 206. Reverse a Linked List (206) 
