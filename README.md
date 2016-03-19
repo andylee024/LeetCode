@@ -12,6 +12,8 @@ https://leetcode.com/problems/binary-tree-postorder-traversal/
 https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 5. Binary Tree Paths (257)
 https://leetcode.com/problems/binary-tree-paths/
+6. Convert Sorted Array to Binary Search Tree
+https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 
 ## Dynamic Programming
 1. Longest Increasing Subsequence (300) 
@@ -35,3 +37,6 @@ https://leetcode.com/problems/reverse-linked-list-ii/
 1. Evaluate Reverse Polish Notation (150)
 https://leetcode.com/problems/evaluate-reverse-polish-notation/
 
+## Heap
+1. Find Median from Data Stream
+https://leetcode.com/problems/find-median-from-data-stream/
