@@ -18,7 +18,8 @@ https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 ## Dynamic Programming
 1. Longest Increasing Subsequence (300) 
 https://leetcode.com/problems/longest-increasing-subsequence/
-
+2. Coin Change (322)
+https://leetcode.com/problems/coin-change/
 ## Arrays
 1. Game of Life (289) 
 https://leetcode.com/problems/game-of-life/ 
