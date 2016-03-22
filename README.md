@@ -12,8 +12,10 @@ https://leetcode.com/problems/binary-tree-postorder-traversal/
 https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 5. Binary Tree Paths (257)
 https://leetcode.com/problems/binary-tree-paths/
-6. Convert Sorted Array to Binary Search Tree
+6. Convert Sorted Array to Binary Search Tree (108)
 https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+7. Binary Tree Zigzag Level Order Traversal (103)
+https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 
 ## Dynamic Programming
 1. Longest Increasing Subsequence (300) 
