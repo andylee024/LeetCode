@@ -36,11 +36,13 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 https://leetcode.com/problems/reverse-linked-list/
 2. Reverse Linked List II (92)
 https://leetcode.com/problems/reverse-linked-list-ii/
+3. Reverse Nodes in K-Group (25)
+https://leetcode.com/problems/reverse-nodes-in-k-group/
 
 ## Stacks
 1. Evaluate Reverse Polish Notation (150)
 https://leetcode.com/problems/evaluate-reverse-polish-notation/
 
 ## Heap
-1. Find Median from Data Stream
+1. Find Median from Data Stream (295)
 https://leetcode.com/problems/find-median-from-data-stream/
