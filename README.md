@@ -16,6 +16,8 @@ https://leetcode.com/problems/binary-tree-paths/
 https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 7. Binary Tree Zigzag Level Order Traversal (103)
 https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+8. Implement Trie (Prefix Tree) (208)
+https://leetcode.com/problems/implement-trie-prefix-tree/ 
 
 ## Dynamic Programming
 1. Longest Increasing Subsequence (300) 
